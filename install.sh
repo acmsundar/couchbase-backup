@@ -69,7 +69,7 @@ then
 
 else
 
-  print 1 "Please execut the script with root user !!!"
+  print 1 "Please execute the script with root user !!!"
   exit 1
 
 fi
